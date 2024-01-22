@@ -30,6 +30,7 @@ hr {
     height: 1px;
     background-color: hsl(30, 18%, 87%);
     border: none;
+    margin: 1rem 0;
 }
 
 li {
